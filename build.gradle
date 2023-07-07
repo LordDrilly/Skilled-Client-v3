@@ -37,7 +37,7 @@ minecraft {
     runDir = "run"
 
     mappings = "stable_20"
-    clientJvmArgs += "-Dfml.coreMods.load=keystrokesmod.client.mixin.MixinLoader" // Uncommented the line
+     // Uncommented the line
 }
 
 repositories {
